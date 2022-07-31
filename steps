@@ -1,0 +1,8 @@
+step1-> IAM user with ecr permission
+step2-> store aws credentials in jenkins
+step3-> ECR repo on aws
+step4-> install docker pipeline plugin
+ step4.1-> add jenkins user to docker group & reboot
+step5 -> to make step4 work we need to install docker engine on jenkins
+step6 -> plugin ecr
+step7 -> install sdk for credentials plugin
